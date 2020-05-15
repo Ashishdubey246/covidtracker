@@ -1,0 +1,12 @@
+body{
+    font-family: 'Baloo Bhaina 2', cursive;  /*to show google fonts in body data */
+}
+#recover{
+    color: rgb(31, 212, 14);
+}
+#death{
+    color: red;
+}
+#confirm{
+    color: rgb(104, 20, 182);
+}
